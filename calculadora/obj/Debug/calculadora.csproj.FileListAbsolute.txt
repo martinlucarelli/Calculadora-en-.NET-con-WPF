@@ -1,0 +1,15 @@
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\MainWindow.g.cs
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\App.g.cs
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.cache
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora_MarkupCompile.lref
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\MainWindow.baml
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.g.resources
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\martin\Desktop\backend\C#\calculadora\calculadora\obj\Debug\calculadora.pdb
